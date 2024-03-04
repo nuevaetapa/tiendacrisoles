@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Tienda Crisoles",
+    "name": "Tienda Crisoles | Regalos personalizados | Córdoba",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -79,7 +79,7 @@
     "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon_1.ico",
-    "mbrsiteDomain": "srcrkol0h7",
+    "mbrsiteDomain": "bj09btmjm3",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
@@ -98,7 +98,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Tienda Crisoles",
+        "title": "Tienda Crisoles | Regalos personalizados | Córdoba",
         "meta_descr": "Somos una empresa dedicada a la creación y venta de regalos personalizados para toda ocasión. Desde pequeños detalles para un amigo o familiar hasta pedidos corporativos, nuestro objetivo es ofrecer regalos únicos y significativos que sean recordados por siempre.",
         "header_custom": "",
         "footer_custom": "",
