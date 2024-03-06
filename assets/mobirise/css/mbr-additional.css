@@ -1081,7 +1081,7 @@ a {
 .cid-u1rQh09D7y {
   padding-top: 10rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/golden-box-2000x2000.jpeg");
+  background-image: url("../../../assets/images/golden-box-2000x2000.webp");
 }
 .cid-u1rQh09D7y .mbr-fallback-image.disabled {
   display: none;
@@ -1681,6 +1681,35 @@ a {
 }
 .cid-u1s6du8U8J .card-text {
   color: #232323;
+}
+.cid-u6cFjSDmwh .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 31px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-u6cFjSDmwh .my-float {
+  margin-top: 16px;
+}
+.cid-u6cFjSDmwh P {
+  color: #232323;
+}
+.cid-u6cFjSDmwh DIV {
+  color: #ffffff;
+}
+.cid-u6cFjSDmwh H10 {
+  color: #767676;
+}
+.cid-u6cFjSDmwh .hidden {
+  display: none;
 }
 .cid-u1s0mSTie1 {
   padding-top: 2rem;
