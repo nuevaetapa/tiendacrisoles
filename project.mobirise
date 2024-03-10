@@ -79,7 +79,7 @@
     "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon_1.ico",
-    "mbrsiteDomain": "ulhnh503bv",
+    "mbrsiteDomain": "mgpr66gzez",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
@@ -91,7 +91,7 @@
     "site_lang": "es",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "publishChangesOnly": true,
-    "publishEditFolder": false,
+    "publishEditFolder": true,
     "cookiesAlert": false
   },
   "pages": {
