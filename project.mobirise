@@ -91,7 +91,7 @@
     "site_lang": "es",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "publishChangesOnly": true,
-    "publishEditFolder": true,
+    "publishEditFolder": false,
     "cookiesAlert": false
   },
   "pages": {
