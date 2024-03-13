@@ -1237,70 +1237,72 @@ a {
     margin-bottom: 2rem;
   }
 }
-.cid-u1G3atfSzk {
+.cid-u6RDeDoZGg {
   padding-top: 4rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-u1G3atfSzk h6 {
+.cid-u6RDeDoZGg h6 {
   line-height: 1.2;
 }
-.cid-u1G3atfSzk img,
-.cid-u1G3atfSzk .item-img {
+.cid-u6RDeDoZGg img,
+.cid-u6RDeDoZGg .item-img {
   width: 100%;
-  border-radius: 50%;
-  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.15);
 }
-.cid-u1G3atfSzk .item:focus,
-.cid-u1G3atfSzk span:focus {
+.cid-u6RDeDoZGg .item:focus,
+.cid-u6RDeDoZGg span:focus {
   outline: none;
 }
-.cid-u1G3atfSzk .item {
+.cid-u6RDeDoZGg .item {
   cursor: pointer;
 }
-.cid-u1G3atfSzk .item-img {
-  transition: transform 0.3s linear;
-}
-.cid-u1G3atfSzk .item-img:hover {
-  transform: rotateY(90deg);
-  -webkit-transform: rotateY(180deg);
-  -webkit-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-}
-.cid-u1G3atfSzk .item-wrapper {
+.cid-u6RDeDoZGg .item-wrapper {
   position: relative;
+  border-radius: 4px;
   display: flex;
   flex-flow: column nowrap;
 }
-.cid-u1G3atfSzk .mbr-section-btn {
+.cid-u6RDeDoZGg .item-img {
+  transition: transform 0.3s linear;
+}
+.cid-u6RDeDoZGg .item-img:hover {
+  transform: scale(0.93);
+}
+.cid-u6RDeDoZGg .mbr-section-btn {
   margin-top: auto !important;
   text-align: center;
 }
-.cid-u1G3atfSzk .mbr-section-title {
+.cid-u6RDeDoZGg .mbr-section-title {
+  color: #232323;
+  text-align: center;
+}
+.cid-u6RDeDoZGg .mbr-text,
+.cid-u6RDeDoZGg .mbr-section-btn {
+  color: #000000;
+}
+.cid-u6RDeDoZGg .item-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-u6RDeDoZGg .item-subtitle {
+  color: #000000;
+  text-align: center;
+}
+.cid-u6RDeDoZGg .item-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-u6RDeDoZGg .item-title,
+.cid-u6RDeDoZGg .mbr-section-btn {
   color: #232323;
 }
-.cid-u1G3atfSzk .mbr-text,
-.cid-u1G3atfSzk .mbr-section-btn {
-  color: #000000;
-}
-.cid-u1G3atfSzk .item-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-u1G3atfSzk .item-subtitle {
-  color: #000000;
-  text-align: center;
-}
-.cid-u1G3atfSzk .item-text {
-  color: #000000;
-  text-align: center;
-}
-.cid-u1G3atfSzk .content-head {
-  max-width: 800px;
-}
-.cid-u1G3atfSzk .item-title,
-.cid-u1G3atfSzk .mbr-section-btn {
-  color: #232323;
+@keyframes item-wrapper {
+  0% {
+    transform: scale(0.5);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 .cid-u226oPEBvb {
   padding-top: 4rem;
